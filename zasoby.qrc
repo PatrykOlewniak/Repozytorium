@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="rozne">
+    <file>icony/icon.png</file>
+    <file>icony/kwin.png</file>
+    <file>icony/fileopen.png</file>
+    <file>icony/add.png</file>
+    <file>icony/delete.png</file>
+    <file>icony/filenew.png</file>
+    <file>icony/filesave.png</file>
+  </qresource>
+</RCC>
