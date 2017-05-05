@@ -1,5 +1,5 @@
 # Repozytorium plików PDF
-<b?[PL Language]</b>Repozytorium Plików PDF - program napisany pod koniec 2015 roku. 
+<b>[PL Language]</b>Repozytorium Plików PDF - program napisany pod koniec 2015 roku. 
 <br>Magazynuje, umożliwia podgląd, edycje i łączenie plików w formacie PDF. 
 Okno główne programu :<br>
  Lewa częśc umożliwia wybór kategorii i podkategorii z której chcemy wyszukać plik.<br>
