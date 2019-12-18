@@ -1,6 +1,6 @@
 # Repozytorium plików PDF
-<b>[PL Language]</b>Repozytorium Plików PDF - program napisany pod koniec 2015 roku. 
-Jest to jeden z pierwszych większych samodzielnych projektów. Zawiera mnóstwo błędów, powtórzeń kodu i braku konsekwencji w nazewnictwie ale pozwala pokazać jak wraz z doświadczeniem zmienia się czytelność kodu :)
+<b>[PL Language]</b>Repozytorium Plików PDF - program napisany pod koniec 2015 roku. <br>
+<b>Jest to jeden z pierwszych większych samodzielnych projektów. Zawiera mnóstwo błędów, powtórzeń kodu i braku konsekwencji w nazewnictwie ale pozwala pokazać jak wraz z doświadczeniem zmienia się czytelność kodu :)<br></b>
 <br>Magazynuje, umożliwia podgląd, edycje i łączenie plików w formacie PDF. 
 
 Okno główne programu :<br>
